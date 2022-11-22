@@ -1,5 +1,9 @@
 # Pewlett-Hackard-analysis
 
+### Tools used
+**SQL**
+**PostgreSQL**
+
 ## Overview of the analysis: 
 In the Pewlett-Hackard-analysis, we are helping Bobby, a HR analyst at Pewlett-Hackard, with future proofing the company by looking at the departments of the  employees who are eligible for retirement. We are also looking to see which employees can recieve a retirement package. Pewlett-Hackard is looking to move their data to SQL. With the help of SQL, we will be able to help Bobby with determining the number of employees who can recieve a retirement package.
 
