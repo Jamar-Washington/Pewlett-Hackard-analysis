@@ -1,7 +1,7 @@
 # Pewlett-Hackard-analysis
 
 ### Tools used
-**SQL**
+**SQL**  
 **PostgreSQL**
 
 ## Overview of the analysis: 
